@@ -5,13 +5,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=I%20%F0%9F%92%99%20Coding" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=I%20%F0%9F%92%99%20Coding;I%20%F0%9F%92%99%20debugging" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 🔭 &nbsp;I'm currently working on **website cloner**  
-😄 &nbsp;Pronouns: **he/him**
+🌱 &nbsp;I'm currently learning **React   / Ts**  
+👯 &nbsp;I'm looking to collaborate on **Real-Time Chat Application**  
+😄 &nbsp;Pronouns: **he/him**  
+⚡ &nbsp;Fun fact: **I fix bugs by creating new, more interesting bugs.**
 
 ### 🛠️ Tech Stack
 
@@ -30,6 +33,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mohamed-yanis-hamidi-1b73643ab/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/yanisxonly?stkn=OXRsZWR6MGl1b2Rn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@yanisxonly?_r=1&amp;_t=ZS-99tDXnVukIn"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://dev.to/yanisxonly"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
   <a href="mailto:mohamedyanishamidi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
