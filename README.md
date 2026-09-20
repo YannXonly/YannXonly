@@ -14,7 +14,7 @@
 🌱 &nbsp;I'm currently learning **React   / Ts**  
 👯 &nbsp;I'm looking to collaborate on **Real-Time Chat Application**  
 😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I fix bugs by creating new, more interesting bugs.**
+⚡ &nbsp;Fun fact: **I fix bugs by creating new more interesting bugs.**
 
 ### 🛠️ Tech Stack
 
